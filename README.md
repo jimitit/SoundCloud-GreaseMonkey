@@ -1,2 +1,2 @@
 # SoundCloud-GreaseMonkey
-Show all songs above 50,000 plays on SoundCloud
+Show only songs above 50,000 plays on SoundCloud
